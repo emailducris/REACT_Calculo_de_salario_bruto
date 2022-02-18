@@ -133,7 +133,7 @@ export default class App extends Component {
 
     return (
       <div>
-        <h1>Cálculo Salário Bruto</h1>
+        <h1>Cálculo Salário</h1>
 
         <Header
           fullSalary={fullSalary}
