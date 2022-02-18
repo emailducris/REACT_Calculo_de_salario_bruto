@@ -1,6 +1,6 @@
 
 
-Template do projeto Cálculo do Salário Bruto
+Template do projeto Cálculo do Salário Bruto, desenvolvido com React.
 
 ## Clonar o projeto.
 
