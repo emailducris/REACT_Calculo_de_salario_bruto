@@ -1,6 +1,6 @@
 
 
-Template do projeto Cálculo do Salário Bruto, desenvolvido com React.
+Template do projeto Cálculo do Salário Bruto, desenvolvido com React,HTML e CSS.
 
 ## Clonar o projeto.
 
@@ -8,7 +8,7 @@ Template do projeto Cálculo do Salário Bruto, desenvolvido com React.
 
 ### - Iniciar: `npm start` ou `yarn start`.
 
-## Imagens da aplicação.
+## Imagens da aplicação:
 
 
 
